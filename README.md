@@ -1,4 +1,4 @@
-![EnhypenHypenchivesGIF](https://github.com/user-attachments/assets/e1cbabec-6f00-4256-8f45-234493d92ec3)# Divinity - Task Manager
+# Divinity - Task Manager
 
 A modern, lightweight task management application built with React. Divinity helps you organize, track, and manage your daily tasks with ease. All your tasks are automatically saved to your browser's local storage, so you never lose your data.
 
